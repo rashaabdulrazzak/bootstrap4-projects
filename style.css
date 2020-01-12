@@ -1,0 +1,54 @@
+body{
+  background-color: black;
+  font-family: 'Merriweather', serif;
+}
+.container{
+  background-color: white;
+
+}
+.btn-primary{
+  background-color: red;
+  font-size: 2rem;
+  border-color: white:
+}
+.btn-primary:hover{
+  background-color:#bc2033;
+  border-color: white:
+}
+.t1,.t3{
+   font-size: 1.5rem;
+   line-height: 1rem;
+}
+.t2{
+   font-size: 2rem;22
+   font-weight: 600;
+}
+.t3{
+   font-size: 1.5rem;
+ }
+.t4{
+   font-size: 1.2rem;
+   line-height: 1.4rem;
+}
+.brash{
+  background-image: url('./img/brush1.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+  color: #fff;
+  text-shadow: 3px 3px #094F71;
+}
+.rowbgr{
+   border-width: .3rem;
+   border-style: dashed;
+   border-color: #a80bob;
+   background-color: #21284f;
+}
+.price{
+   font-size: 2rem;
+   font-weight: 600;
+   color: #DA3D32;
+}
+.social{
+  width: 35px;
+  margin-left: 5px;
+}
